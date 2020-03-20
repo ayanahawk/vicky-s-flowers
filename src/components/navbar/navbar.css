@@ -11,6 +11,12 @@
     
   }
 
+ .icon{
+      /* background-image: url('shirt.JPG'); */
+    padding: 0px;
+  margin:10px;
+  }
+
   .nav-bar li {
   display:inline;
   }
